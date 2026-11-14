@@ -1,0 +1,14 @@
+{
+  "name": "ledger-to-notion",
+  "description": "Korean household ledger (가계부) skill: reads payment screenshots, receipts and card/bank exports and adds approved transactions to a Notion ledger.",
+  "owner": {
+    "name": "K2YOUNG"
+  },
+  "plugins": [
+    {
+      "name": "ledger-to-notion",
+      "source": ".",
+      "description": "Payment screenshots, receipts and card/bank exports into a Notion household ledger (가계부), with a preview and approval before every insert. Skill: /ledger-to-notion:ledger-to-notion"
+    }
+  ]
+}

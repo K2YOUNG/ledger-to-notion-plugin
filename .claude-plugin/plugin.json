@@ -1,0 +1,11 @@
+{
+  "name": "ledger-to-notion",
+  "version": "1.0.0",
+  "description": "Reads payment screenshots, receipt photos and PDFs, KakaoTalk/SMS payment notices and card/bank export files, and adds the transactions to a Notion household ledger (가계부) after a preview and your approval. Can clone a ledger template, adapt to an existing ledger, and set up an optional daily Slack DM reminder. Korean-language skill for Claude Code.",
+  "author": {
+    "name": "K2YOUNG"
+  },
+  "homepage": "https://github.com/K2YOUNG/ledger-to-notion-plugin",
+  "repository": "https://github.com/K2YOUNG/ledger-to-notion-plugin",
+  "license": "MIT"
+}
